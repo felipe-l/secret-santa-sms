@@ -1,0 +1,7 @@
+{
+    "participants": [
+        {"name": "John Doe", "phone": "+10000000001"},
+        {"name": "Jane Smith", "phone": "+10000000002"},
+        {"name": "Alex Johnson", "phone": "+10000000003"}
+    ]
+}
