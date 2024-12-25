@@ -18,7 +18,7 @@ def send_sms(matchings_data):
         to_number = match["phone"]
         gifter = match["gifter"]
         recipient = match["recipient"]
-        message_text = f"THIS IS A TEST: Hi {gifter}, you are the Secret Santa for {recipient}! Keep it a surprise 🎁."
+        message_text = f"Hola {gifter}, eres el Santa Secreto de {recipient} para el Fambam 2024. ¡Le darás un regalo a {recipient}! Mantenlo en secreto 🎁."
 
         # Attempt to send the message
         try:

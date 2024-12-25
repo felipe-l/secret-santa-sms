@@ -2,3 +2,6 @@
 venv/
 __pycache__
 main2.py
+participants.json
+safe/
+matchings.json
